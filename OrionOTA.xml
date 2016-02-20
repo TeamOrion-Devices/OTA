@@ -60,6 +60,65 @@ Use any existing device code as template and add your device
                 id="gapps"
                 title="Gapps"
                 description="Download latest gapps">http://opengapps.org/</GappsUrl>
-        </angler>	    
+        </angler>
+        
+        <d850>
+            <Filename>OrionOS-d850-2.1-OFFICIAL-20160131</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download OrionLP build">https://www.androidfilehost.com/?w=files&amp;flid=48896</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View OrionLP changelogs">https://github.com/TeamOrion/Documentation/blob/master/changelog.txt</ChangelogUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Gapps">opengapps.org</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit OrionLP AT&T LG G3 thread">http://forum.xda-developers.com/att-lg-g3/development/rom-orionlp-rom-lg-g3-d850-t3173254</XDAUrl>
+        </d850>
+        
+        <d855>
+            <Filename>OrionOS-d855-2.1-OFFICIAL-20160131.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download OrionLP build">https://www.androidfilehost.com/?w=files&amp;flid=48909</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View OrionLP changelogs">https://github.com/TeamOrion/Documentation/blob/master/changelog.txt</ChangelogUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Gapps">opengapps.org</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit OrionLP LG G3 thread">http://forum.xda-developers.com/lg-g3/development/rom-orionlp-rom-lg-g3-d855-t3173250</XDAUrl>
+        </d855>
+        
+        <vs985>
+            <Filename>OrionOS-vs985-2.1-OFFICIAL-20160131.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download OrionLP build">https://www.androidfilehost.com/?w=files&amp;flid=48903</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View OrionLP changelogs">https://github.com/TeamOrion/Documentation/blob/master/changelog.txt</ChangelogUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Gapps">opengapps.org</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit OrionLP Verizon LG G3 thread">http://forum.xda-developers.com/verizon-lg-g3/development/rom-orionlp-rom-lg-g3-vs985-t3173356</XDAUrl>
     </Stable>
 </SlimOTA>
