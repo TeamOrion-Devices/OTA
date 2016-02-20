@@ -47,7 +47,7 @@ Use any existing device code as template and add your device
         </bacon>
         
         <angler>
-            <Filename>OrionOS-angler-2.1-OFFICIAL-20160131</Filename>
+            <Filename>OrionOS-angler-2.2-OFFICIAL-20160220</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
