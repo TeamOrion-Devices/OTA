@@ -60,6 +60,11 @@ Use any existing device code as template and add your device
                 id="gapps"
                 title="Gapps"
                 description="Download latest gapps">http://opengapps.org/</GappsUrl>
+             <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit OrionOS falcon thread"> http://forum.xda-developers.com/nexus-6p/development/rom-orion-os-2-2-t3318620</XDAUrl>    
+               
         </angler>
         
         <d850>
