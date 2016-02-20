@@ -95,6 +95,25 @@
                 id="xda"
                 title="XDA"
                 description="Visit OrionOS AT&amp;T LG G3 thread">http://forum.xda-developers.com/att-lg-g3/development/rom-OrionOS-rom-lg-g3-d850-t3173254</XDAUrl>
-	    </d850>	          
+	    </d850>
+        <d855>
+            <Filename>OrionOS-d855-2.2-OFFICIAL-20160220s.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download OrionOS build">https://www.androidfilehost.com/?w=files&amp;flid=48909</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View OrionOS changelogs">https://github.com/TeamOrion/Documentation/blob/master/changelog.txt</ChangelogUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Gapps">opengapps.org</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit OrionOS LG G3 thread">http://forum.xda-developers.com/lg-g3/development/rom-OrionOS-rom-lg-g3-d855-t3173250</XDAUrl>
+        </d855>	              
     </Stable>
 </SlimOTA>
