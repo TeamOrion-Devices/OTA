@@ -23,7 +23,7 @@ Use any existing device code as template and add your device
             <XDAUrl
                 id="xda"
                 title="XDA"
-                description="Visit OrionOS falcon thread">http://forum.xda-developers.com/moto-g/development/rom-orionlp-1-0-t3149760</XDAUrl>
+                description="Visit OrionOS falcon thread">http://forum.xda-developers.com/moto-g/development/rom-OrionOS-1-0-t3149760</XDAUrl>
 	    </falcon>   
 						<!--                    Bacon                            -->
         <bacon>
@@ -43,7 +43,7 @@ Use any existing device code as template and add your device
             <XDAUrl
                 id="xda"
                 title="XDA"
-                description="Visit OrionOS falcon thread">http://forum.xda-developers.com/oneplus-one/development/rom-orion-os-2-0-t3294632</XDAUrl>
+                description="Visit OrionOS bacon thread">http://forum.xda-developers.com/oneplus-one/development/rom-orion-os-2-0-t3294632</XDAUrl>
         </bacon>
         
         <angler>
@@ -63,7 +63,7 @@ Use any existing device code as template and add your device
              <XDAUrl
                 id="xda"
                 title="XDA"
-                description="Visit OrionOS falcon thread"> http://forum.xda-developers.com/nexus-6p/development/rom-orion-os-2-2-t3318620</XDAUrl>    
+                description="Visit OrionOS angler thread"> http://forum.xda-developers.com/nexus-6p/development/rom-orion-os-2-2-t3318620</XDAUrl>    
                
         </angler>
         
@@ -72,11 +72,11 @@ Use any existing device code as template and add your device
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download OrionLP build">https://www.androidfilehost.com/?w=files&amp;flid=48896</RomUrl>
+                description="Download OrionOS build">https://www.androidfilehost.com/?w=files&amp;flid=48896</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View OrionLP changelogs">https://github.com/TeamOrion/Documentation/blob/master/changelog.txt</ChangelogUrl>
+                description="View OrionOS changelogs">https://github.com/TeamOrion/Documentation/blob/master/changelog.txt</ChangelogUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
@@ -84,7 +84,7 @@ Use any existing device code as template and add your device
             <XDAUrl
                 id="xda"
                 title="XDA"
-                description="Visit OrionLP AT&T LG G3 thread">http://forum.xda-developers.com/att-lg-g3/development/rom-orionlp-rom-lg-g3-d850-t3173254</XDAUrl>
+                description="Visit OrionOS AT&T LG G3 thread">http://forum.xda-developers.com/att-lg-g3/development/rom-OrionOS-rom-lg-g3-d850-t3173254</XDAUrl>
         </d850>
         
         <d855>
@@ -92,11 +92,11 @@ Use any existing device code as template and add your device
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download OrionLP build">https://www.androidfilehost.com/?w=files&amp;flid=48909</RomUrl>
+                description="Download OrionOS build">https://www.androidfilehost.com/?w=files&amp;flid=48909</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View OrionLP changelogs">https://github.com/TeamOrion/Documentation/blob/master/changelog.txt</ChangelogUrl>
+                description="View OrionOS changelogs">https://github.com/TeamOrion/Documentation/blob/master/changelog.txt</ChangelogUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
@@ -104,7 +104,7 @@ Use any existing device code as template and add your device
             <XDAUrl
                 id="xda"
                 title="XDA"
-                description="Visit OrionLP LG G3 thread">http://forum.xda-developers.com/lg-g3/development/rom-orionlp-rom-lg-g3-d855-t3173250</XDAUrl>
+                description="Visit OrionOS LG G3 thread">http://forum.xda-developers.com/lg-g3/development/rom-OrionOS-rom-lg-g3-d855-t3173250</XDAUrl>
         </d855>
         
         <vs985>
@@ -112,11 +112,11 @@ Use any existing device code as template and add your device
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download OrionLP build">https://www.androidfilehost.com/?w=files&amp;flid=48903</RomUrl>
+                description="Download OrionOS build">https://www.androidfilehost.com/?w=files&amp;flid=48903</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View OrionLP changelogs">https://github.com/TeamOrion/Documentation/blob/master/changelog.txt</ChangelogUrl>
+                description="View OrionOS changelogs">https://github.com/TeamOrion/Documentation/blob/master/changelog.txt</ChangelogUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
@@ -124,6 +124,6 @@ Use any existing device code as template and add your device
             <XDAUrl
                 id="xda"
                 title="XDA"
-                description="Visit OrionLP Verizon LG G3 thread">http://forum.xda-developers.com/verizon-lg-g3/development/rom-orionlp-rom-lg-g3-vs985-t3173356</XDAUrl>
+                description="Visit OrionOS Verizon LG G3 thread">http://forum.xda-developers.com/verizon-lg-g3/development/rom-OrionOS-rom-lg-g3-vs985-t3173356</XDAUrl>
     </Stable>
 </SlimOTA>
