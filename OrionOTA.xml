@@ -84,7 +84,7 @@ Use any existing device code as template and add your device
             <XDAUrl
                 id="xda"
                 title="XDA"
-                description="Visit OrionOS AT&T LG G3 thread">http://forum.xda-developers.com/att-lg-g3/development/rom-OrionOS-rom-lg-g3-d850-t3173254</XDAUrl>
+                description="Visit OrionOS AT&amp;T LG G3 thread">http://forum.xda-developers.com/att-lg-g3/development/rom-OrionOS-rom-lg-g3-d850-t3173254</XDAUrl>
         </d850>
         
         <d855>
