@@ -40,11 +40,11 @@
                 description="Visit OrionOS bacon thread">http://forum.xda-developers.com/oneplus-one/development/rom-orion-os-2-0-t3294632</XDAUrl>
         </bacon>
         <w7>
-            <Filename>OrionOS-w7-2.2-OFFICIAL-20160220.zip</Filename>
+            <Filename>OrionOS-w7-2.3-OFFICIAL-20160403.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download OrionOS build">https://www.androidfilehost.com/?fid=24421527759883566</RomUrl>
+                description="Download OrionOS build">https://www.androidfilehost.com/?fid=24459283995312446</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
