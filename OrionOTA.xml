@@ -147,7 +147,7 @@
             <GappsUrl
                 id="gapps"
                 title="Gapps"
-                description="Download latest gapps">http://opengapps.org/?download=true&amp;arch=arm64&amp;api=6.0&amp;variant=nano</GappsUrl>
+                description="Download latest gapps">https://github.com/opengapps/arm64/releases/download/20160303/open_gapps-arm64-6.0-nano-20160303.zip</GappsUrl>
              <XDAUrl
                 id="xda"
                 title="XDA"
