@@ -152,6 +152,25 @@
                 id="xda"
                 title="XDA"
                 description="Visit OrionOS clark thread">http://forum.xda-developers.com/moto-x-style/development/rom-orion-os-2-3-t3352077</XDAUrl>                   
-	    </clark>                   
+	    </clark>
+	    <espressowifi>
+            <Filename>OrionOS-espressowifi-2.3-OFFICIAL-20160404.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download OrionOS build">https://www.androidfilehost.com/?fid=24459283995313414</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View OrionOS changelogs">https://github.com/TeamOrion/Documentation/blob/master/changelog.txt</ChangelogUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest gapps">http://forum.xda-developers.com/slimroms/general/gapps-official-slim-gapps-trds-slimkat-t2792842</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit OrionOS espressowifi thread">http://forum.xda-developers.com/galaxy-tab-2/7-inch-development/rom-orionos-espressowifi-t3352476</XDAUrl>
+        </espressowifi>
     </Stable>
 </SlimOTA>
