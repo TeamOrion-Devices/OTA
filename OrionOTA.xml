@@ -133,7 +133,7 @@
                 id="xda"
                 title="XDA"
                 description="Visit OrionOS Verizon LG G3 thread">http://forum.xda-developers.com/verizon-lg-g3/development/rom-OrionOS-rom-lg-g3-vs985-t3173356</XDAUrl>
-	    </vs985>  
+	    </vs985> 
 	    <clark>
             <Filename>OrionOS-clark-2.3-OFFICIAL-20160404.zip</Filename>
             <RomUrl
@@ -147,11 +147,11 @@
             <GappsUrl
                 id="gapps"
                 title="Gapps"
-                description="Download latest gapps">https://github.com/opengapps/arm64/releases/download/20160303/open_gapps-arm64-6.0-nano-20160303.zip</GappsUrl>
+                description="Download latest gapps">http://opengapps.org/</GappsUrl>
              <XDAUrl
                 id="xda"
                 title="XDA"
                 description="Visit OrionOS clark thread">http://forum.xda-developers.com/moto-x-style/development/rom-orion-os-2-3-t3352077</XDAUrl>                   
-	    </clark>                 
+	    </clark>                   
     </Stable>
 </SlimOTA>
