@@ -172,5 +172,24 @@
                 title="XDA"
                 description="Visit OrionOS espressowifi thread">http://forum.xda-developers.com/galaxy-tab-2/7-inch-development/rom-orionos-espressowifi-t3352476</XDAUrl>
         </espressowifi>
+        <onyx>
+            <Filename>OrionOS-onyx-2.3-OFFICIAL-20160502.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download OrionOS build">https://www.androidfilehost.com/?w=files&amp;flid=54154</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View OrionOS changelogs">https://github.com/TeamOrion/Documentation/blob/master/changelog.txt</ChangelogUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest gapps">http://opengapps.org/</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit OrionOS onyx thread">http://forum.xda-developers.com/oneplus-x/development/rom-orionos-2-3-t3358463</XDAUrl>
+        </onyx>
     </Stable>
 </SlimOTA>
