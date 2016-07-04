@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <falcon>
-            <Filename>OrionOS-falcon-2.3-OFFICIAL-20160404</Filename>
+            <Filename>OrionOS-falcon-2.4-OFFICIAL-20160704</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
