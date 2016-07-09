@@ -208,7 +208,7 @@
             <XDAUrl
                 id="xda"
                 title="XDA"
-                description="Visit OrionOS onyx thread">http://forum.xda-developers.com/2015-moto-g/development/rom-orionos-2-3-t3355079</XDAUrl>
+                description="Visit OrionOS osprey thread">http://forum.xda-developers.com/2015-moto-g/development/rom-orionos-2-3-t3355079</XDAUrl>
         </osprey>
     </Stable>
 </SlimOTA>
