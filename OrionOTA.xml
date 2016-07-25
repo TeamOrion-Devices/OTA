@@ -211,11 +211,11 @@
                 description="Visit OrionOS osprey thread">http://forum.xda-developers.com/2015-moto-g/development/rom-orionos-2-3-t3355079</XDAUrl>
         </osprey>
         <kenzo>
-            <Filename>OrionOS-kenzo-2.4-OFFICIAL-201607013.zip</Filename>
+            <Filename>OrionOS-kenzo-2.4-OFFICIAL-201607024.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download OrionOS Build">https://www.androidfilehost.com/?fid=24591000424947082</RomUrl>
+                description="Download OrionOS Build">https://www.androidfilehost.com/?fid=24591000424949504</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
