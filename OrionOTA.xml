@@ -230,11 +230,11 @@
                 description="Visit OrionOS RedMI Note 3 XDA thread">http://forum.xda-developers.com/redmi-note-3/development/rom-orion-os-2-4-t3416901</XDAUrl>                   
 	    </kenzo>
 	<lt03wifi>
-            <Filename>OrionOS-lt03wifi-2.5-OFFICIAL-20160822</Filename>
+            <Filename>OrionOS-lt03wifi-2.5-OFFICIAL-20160823</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download OrionOS build">https://www.androidfilehost.com/?fid=24686680535466384</RomUrl>
+                description="Download OrionOS build">https://www.androidfilehost.com/?fid=24588232905723270</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
