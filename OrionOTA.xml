@@ -245,11 +245,11 @@
                 description="Download latest gapps">http://opengapps.org/</GappsUrl>
 	    </lt03wifi>
 	<lux>
-            <Filename>OrionOS-lux-2.5-OFFICIAL-20160804-2213</Filename>
+            <Filename>OrionOS-lux-2.6-OFFICIAL-20160905-1640</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download OrionOS build">https://www.androidfilehost.com/?fid=24665539028713652</RomUrl>
+                description="Download OrionOS build">https://www.androidfilehost.com/?fid=24694152805484595</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
