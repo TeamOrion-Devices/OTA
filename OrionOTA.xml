@@ -170,7 +170,7 @@
             <XDAUrl
                 id="xda"
                 title="XDA"
-                description="Visit OrionOS espressowifi thread">http://forum.xda-developers.com/galaxy-tab-2/7-inch-development/rom-orionos-espressowifi-t3352476</XDAUrl>
+                description="Visit OrionOS espressowifi thread">http://forum.xda-developers.com/galaxy-tab-2/galaxy-tab-2-unified/rom-orionos-espressowifi-t3352476</XDAUrl>
         </espressowifi>
         <espresso3g>	    
             <Filename>OrionOS-espresso3g-2.6-OFFICIAL-20160905.zip</Filename>
@@ -189,7 +189,7 @@
             <XDAUrl
                 id="xda"
                 title="XDA"
-                description="Visit OrionOS espressowifi thread">http://forum.xda-developers.com/galaxy-tab-2/7-inch-development/rom-orionos-espressowifi-t3352476</XDAUrl>
+                description="Visit OrionOS espressowifi thread">http://forum.xda-developers.com/galaxy-tab-2/galaxy-tab-2-unified/rom-orionos-espressowifi-t3352476</XDAUrl>
         </espresso3g>
         <onyx>
             <Filename>OrionOS-onyx-2.5-OFFICIAL-20160806.zip</Filename>
