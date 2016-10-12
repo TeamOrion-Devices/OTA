@@ -264,11 +264,11 @@
                 description="Download latest gapps">http://opengapps.org/</GappsUrl>
 	    </n1awifi>
 	<lux>
-            <Filename>OrionOS-lux-2.6.1-OFFICIAL-20160910-2240.zip</Filename>
+            <Filename>OrionOS-lux-2.7-OFFICIAL-20161011-2001.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download OrionOS build">https://www.androidfilehost.com/?fid=24591000424965292</RomUrl>
+                description="Download OrionOS build">https://www.androidfilehost.com/?fid=385035244224384248</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
