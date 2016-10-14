@@ -230,11 +230,11 @@
                 description="Visit OrionOS osprey thread">http://forum.xda-developers.com/2015-moto-g/development/rom-orionos-2-3-t3355079</XDAUrl>
         </osprey>
         <kenzo>
-            <Filename>OrionOS-kenzo-2.5-OFFICIAL-20160816.zip</Filename>
+            <Filename>OrionOS-kenzo-2.7-OFFICIAL-20161012.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download OrionOS Build">https://www.androidfilehost.com/?fid=24665542585483872</RomUrl>
+                description="Download OrionOS Build">https://www.androidfilehost.com/?fid=529152257862667327</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -246,7 +246,7 @@
              <XDAUrl
                 id="xda"
                 title="XDA"
-                description="Visit OrionOS RedMI Note 3 XDA thread">http://forum.xda-developers.com/redmi-note-3/development/rom-orion-os-2-4-t3416901</XDAUrl>                   
+                description="Visit OrionOS RedMI Note 3 XDA thread">http://forum.xda-developers.com/redmi-note-3/development/rom-t3416901</XDAUrl>                   
 	    </kenzo>
 	<n1awifi>
             <Filename>OrionOS-n1awifi-2.6.1-OFFICIAL-20160927.zip</Filename>
